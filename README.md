@@ -1,5 +1,5 @@
 # 注意
-本项目是wy876漏洞库的备份,备份源Github作者：eeeeeeeeee-code。
+本项目是wy876漏洞库的备份,备份源Github作者：[eeeeeeeeee-code](https://github.com/eeeeeeeeee-code)。
 
 免责声明：
 文中所有涉及的内容均不针对任何厂商或个人，同时由于传播、利用文中所发布的技术或工具造成的任何直接或者间接的后果及损失，均由使用者本人承担。
